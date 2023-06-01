@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    fintech,
+    onextech,
+    nus,
+    nes,
     carrent,
     jobit,
     tripguide,
@@ -118,8 +118,8 @@ import {
     {
       title: "Software Engineering Intern",
       company_name: "One X Tech",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: onextech,
+      iconBg: "#000000",
       date: "May 2023 - August 2023",
       points: [
         "Developing personalized websites for the company's different businesses to increase traction",
@@ -132,8 +132,8 @@ import {
     {
       title: "Undergraduate Teaching Assistant",
       company_name: "National University of Singapore",
-      icon: tesla,
-      iconBg: "#E6DEDD",
+      icon: nus,
+      iconBg: "#FFFFFF",
       date: "January 2023 to April 2023",
       points: [
         "Undergraduate Teaching Assistant for CS2040S (Data Structures and Algorithms) under Prof Seth Gilbert.",
@@ -145,8 +145,8 @@ import {
     {
       title: "Vice President of Startup Development",
       company_name: "NUS Entrepreneurship Society",
-      icon: shopify,
-      iconBg: "#383E56",
+      icon: nes,
+      iconBg: "#0B0B45",
       date: "July 2022 - July 2023",
       points: [
         "Leading a team of 40 members across 4 subdivisions (Operations, Marketing, External Liaisons, Sponsorship Liaisons) to plan for Ground Zero 2023, the largest student-led startathon in Singapore.",
@@ -157,8 +157,8 @@ import {
     {
       title: "Software Engineer",
       company_name: "NUS Fintech Society",
-      icon: meta,
-      iconBg: "#E6DEDD",
+      icon: fintech,
+      iconBg: "#FFFFFF",
       date: "September 2021 - June 2022",
       points: [
         "Developing websites and projects requested by the NUS Fintech Society.",
