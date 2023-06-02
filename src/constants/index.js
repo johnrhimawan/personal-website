@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    github,
+    linkedin,
   } from "../assets";
   
   export const navLinks = [
@@ -37,6 +39,21 @@ import {
     {
       id: "contact",
       title: "Contact",
+    },
+  ];
+
+  const socials = [
+    {
+      title: "GitHub",
+      alt: "GitHub Logo",
+      icon: github,
+      url: "https://github.com/johnrhimawan",
+    },
+    {
+      title: "LinkedIn",
+      alt: "LinkedIn Logo",
+      icon: linkedin,
+      url: "https://www.linkedin.com/in/johnrhimawan",
     },
   ];
   
@@ -262,5 +279,5 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { socials, services, technologies, experiences, testimonials, projects };
   
