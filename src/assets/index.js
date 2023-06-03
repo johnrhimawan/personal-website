@@ -21,6 +21,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import postgresql from "./tech/postgresql.png"
 
 import fintech from "./company/fintech.png";
 import nes from "./company/nes.png";
@@ -54,6 +55,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  postgresql,
   fintech,
   nes,
   onextech,
