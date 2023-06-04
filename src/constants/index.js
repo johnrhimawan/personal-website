@@ -1,7 +1,6 @@
 import {
     mobile,
     backend,
-    creator,
     web,
     javascript,
     typescript,
@@ -14,7 +13,7 @@ import {
     mongodb,
     git,
     figma,
-    docker,
+    postgresql,
     fintech,
     onextech,
     nus,
@@ -70,10 +69,6 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "Content Creator",
-      icon: creator,
-    },
   ];
   
   const technologies = [
@@ -114,8 +109,8 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "PostgreSQL",
+      icon: postgresql,
     },
     {
       name: "git",
@@ -124,10 +119,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
